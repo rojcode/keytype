@@ -1,5 +1,5 @@
 # Dynamic Element Content Changer with Keyboard Event
-![Project Screenshot](https://s6.uupload.ir/files/screen_shot_1402-10-28_at_22.05.25_hgns.png)
+![Project Screenshot](https://s6.uupload.ir/files/screen_shot_1402-10-28_at_22.05.25_hgns_whaz.png)
 
 This project includes a JavaScript function (`changeInnerHtmlById`) that allows you to dynamically change the content of an HTML element using its selector. Additionally, there is an event listener attached to the `keydown` event that demonstrates the usage of this function by updating the content of several elements with information about the key pressed.
 
